@@ -10,10 +10,6 @@ This project focuses on leveraging public data and the **Remix platform** to des
 
 ![WhatsApp Image 2024-12-12 at 4 06 27 PM](https://github.com/user-attachments/assets/968779db-655c-4fb0-82c8-75eb5c469516)
 
-![WhatsApp Image 2024-12-12 at 1 12 16 PM](https://github.com/user-attachments/assets/a98ad6f9-d514-412b-9884-3c43b6342c9b)
-
-![WhatsApp Image 2024-12-12 at 1 12 16 PM (1)](https://github.com/user-attachments/assets/9628caef-4214-41d3-ada8-7d05d15bde44)
-
 
 _**Overview**_
 This document presents insights and recommendations based on a real-world transit planning project conducted for a U.S. Transit Authority. The project focuses on integrating on-demand transit zones with existing fixed-route services to improve cost efficiency, accessibility, and equity. By utilizing the Remix platform for advanced data analysis and network planning, this initiative provides a framework for preparing transit systems for the demographic and socioeconomic shifts expected by 2040 and 2050.
@@ -80,9 +76,21 @@ _**On Demand Transit Zone: A Case Study**_
 
 The success of on-demand transit systems in other U.S. cities, such as the Lynchburg Flex Zone, serves as a benchmark for implementing similar systems in this project.
 
+
+![WhatsApp Image 2024-12-12 at 1 12 16 PM](https://github.com/user-attachments/assets/a98ad6f9-d514-412b-9884-3c43b6342c9b)
+
+![WhatsApp Image 2024-12-12 at 1 12 16 PM (1)](https://github.com/user-attachments/assets/9628caef-4214-41d3-ada8-7d05d15bde44)
+
 **Cost Efficiency**_
 
 Flex Zone, demonstrates significant cost savings compared to traditional fixed-route systems. The Flex Zone operates at a total cost of $70.81 per hour, substantially lower than the $133.17 per hour for fixed routes, saving $62.36 per hour. Additionally, operational costs for three vans amount to $177.03 per hour, compared to $266.34 for two buses, resulting in a projected savings of $89.31 per hour. While vehicle replacement costs for vans are slightly higher at $1,505,000 compared to $1,368,400 for buses, the operational savings justify this difference over time. In terms of ridership, the Flex Zone experienced remarkable growth, starting with just 1 rider in July 2024 and reaching 2,068 riders by October 2024, reflecting the rapid adoption and success of this flexible, demand-driven service model.
+
+_**Pareto Analysis**_
+
+The Pareto analysis conducted on the Voice of Customer (VOC) feedback regarding transit improvements revealed the most critical areas to address. As shown in the chart, lighting, seating, and shelter account for the majority of the feedback, with their cumulative frequency covering nearly 80% of the concerns raised. This indicates that focusing on these three elements will address the most significant pain points for transit users. Less frequently mentioned factors, such as signage, safety, sidewalks & crossings, and bike facilities, contribute to the remaining 20% of the concerns. The insights from this analysis enable prioritization of investments in lighting, seating, and shelter to maximize customer satisfaction and improve transit infrastructure effectively.
+
+<img width="407" alt="image" src="https://github.com/user-attachments/assets/c5048c8f-eac8-4f65-b7bd-f3fffe117492" />
+
 
 **Conclusion**
 
